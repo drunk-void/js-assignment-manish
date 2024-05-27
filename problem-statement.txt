@@ -16,7 +16,9 @@ Problem 3
 Requirement: News Support for Matches and Tours
 Functional Requirements:
     1. News can be created for a match or a tour.
+        // or Sport?
     2. Each news created for a match also belongs to the corresponding tour.
+        // and sequentialy to corresponding sport??
     3. Each news created for a tour also belongs to the corresponding sport.
 Technical Requirements:
     1. Create an endpoint to create news.
